@@ -1,0 +1,62 @@
+.main {
+    background-image: url('https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/01/14172326/netflix.jpg');
+    background-size: cover;
+    height: 700px;
+    border-bottom: 8px solid black;
+    margin-bottom: 20px;
+}
+
+.layoutcard1 {
+    color: white;
+    background: transparent;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 375px;
+    padding-top: 300px;
+    border-bottom: 10px black;
+}
+
+.section1 {
+    background-color:azure;
+    border: 8px solid black;
+
+}
+
+.layoutcard2 {
+    background-color: black;
+    border-radius: 8px; 
+    padding: 20px;
+    margin: 18px; 
+    border-bottom: 8px solid black; 
+}
+
+.h1 {
+    color: white;
+    border-top: 25px;
+}
+
+.p {
+    color: white;
+}
+
+.sectionimg2 {
+    height: 300px;
+    width: 450px;
+}
+
+.animation {
+    height: 80%;
+    left: 24%;
+    top: 202%;
+    max-height: 40%;
+    max-width: 55%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    width: 80%;
+
+}
+
+.video {
+    height: 80%;
+    width: 100%;
+}
